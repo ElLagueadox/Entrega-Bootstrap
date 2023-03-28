@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/fondo.jpg);
+    background-size: cover;
+}
+.container{
+    margin-top: 20px;
+}
+.letrabaja{
+    color: white;
+}
+.letrabaja:hover{
+    color: blue;
+}
